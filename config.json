@@ -1,5 +1,5 @@
 {
   "monitor": "http://localhost:8222",
-  "server": "http://localhost:3000",
+  "server": "http://0.0.0.0:8282",
   "interval": 1000
 }
